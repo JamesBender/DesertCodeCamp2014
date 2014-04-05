@@ -1,0 +1,4 @@
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Core\bin\Debug\TicTacToe.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Core\bin\Debug\TicTacToe.Core.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Core\obj\Debug\TicTacToe.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Core\obj\Debug\TicTacToe.Core.pdb

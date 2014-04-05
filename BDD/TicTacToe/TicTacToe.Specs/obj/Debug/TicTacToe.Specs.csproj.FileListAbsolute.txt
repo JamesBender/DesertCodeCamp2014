@@ -1,0 +1,11 @@
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\bin\Debug\TicTacToe.Specs.dll.config
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\bin\Debug\TicTacToe.Specs.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\bin\Debug\TicTacToe.Specs.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\bin\Debug\nunit.framework.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\bin\Debug\nunit.framework.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\obj\Debug\TicTacToe.Specs.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\obj\Debug\TicTacToe.Specs.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\obj\Debug\TicTacToe.Specs.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\bin\Debug\TicTacToe.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\BDD\TicTacToe\TicTacToe.Specs\bin\Debug\TicTacToe.Core.pdb
