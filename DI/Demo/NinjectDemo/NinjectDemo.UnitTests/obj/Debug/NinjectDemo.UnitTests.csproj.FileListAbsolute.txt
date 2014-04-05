@@ -1,0 +1,57 @@
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.UnitTests.dll
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.UnitTests.pdb
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Moq.dll
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.Core.dll
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Ninject.dll
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.Core.pdb
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Moq.pdb
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Moq.xml
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Ninject.pdb
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Ninject.xml
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\obj\Debug\NinjectDemo.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\obj\Debug\NinjectDemo.UnitTests.dll
+C:\Users\James\Dropbox\Abstracts and Presentations\2012\DevLink\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\obj\Debug\NinjectDemo.UnitTests.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.UnitTests.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.UnitTests.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Ninject.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.Core.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Ninject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Ninject.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\obj\Debug\NinjectDemo.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\obj\Debug\NinjectDemo.UnitTests.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\obj\Debug\NinjectDemo.UnitTests.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Telerik.JustMock.Container.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Telerik.JustMock.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.UnitTests.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.UnitTests.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Telerik.JustMock.Container.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Telerik.JustMock.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Ninject.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\NinjectDemo.Core.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Ninject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\bin\Debug\Ninject.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\obj\Debug\NinjectDemo.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\obj\Debug\NinjectDemo.UnitTests.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\Demo\NinjectDemo\NinjectDemo.UnitTests\obj\Debug\NinjectDemo.UnitTests.pdb

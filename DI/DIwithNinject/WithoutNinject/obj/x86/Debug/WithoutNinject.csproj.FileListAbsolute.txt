@@ -1,0 +1,16 @@
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\x86\Debug\WithoutNinject.exe
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\x86\Debug\WithoutNinject.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\x86\Debug\Common.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\x86\Debug\Ninject.Core.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\x86\Debug\Common.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\obj\x86\Debug\WithoutNinject.exe
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\obj\x86\Debug\WithoutNinject.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\NPlus1June\DIwithNinject\WithoutNinject\obj\x86\Debug\WithoutNinject.exe
+C:\Users\James\Desktop\Abstracts and Presentations\2010\NPlus1June\DIwithNinject\WithoutNinject\obj\x86\Debug\WithoutNinject.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\NPlus1June\DIwithNinject\WithoutNinject\bin\x86\Debug\WithoutNinject.exe
+C:\Users\James\Desktop\Abstracts and Presentations\2010\NPlus1June\DIwithNinject\WithoutNinject\bin\x86\Debug\WithoutNinject.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\NPlus1June\DIwithNinject\WithoutNinject\bin\x86\Debug\Common.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\NPlus1June\DIwithNinject\WithoutNinject\bin\x86\Debug\Ninject.Core.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\NPlus1June\DIwithNinject\WithoutNinject\bin\x86\Debug\Common.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\NPlus1June\DIwithNinject\WithoutNinject\obj\x86\Debug\ResolveAssemblyReference.cache

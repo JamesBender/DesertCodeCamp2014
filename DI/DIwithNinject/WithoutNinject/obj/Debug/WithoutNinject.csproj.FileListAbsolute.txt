@@ -1,0 +1,65 @@
+C:\Users\James\Desktop\Abstracts and Presentations\2009\ArcSummit - Detroit\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.exe
+C:\Users\James\Desktop\Abstracts and Presentations\2009\ArcSummit - Detroit\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2009\ArcSummit - Detroit\DIwithNinject\WithoutNinject\bin\Debug\Common.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2009\ArcSummit - Detroit\DIwithNinject\WithoutNinject\bin\Debug\Common.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2009\ArcSummit - Detroit\DIwithNinject\WithoutNinject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\Abstracts and Presentations\2009\ArcSummit - Detroit\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.exe
+C:\Users\James\Desktop\Abstracts and Presentations\2009\ArcSummit - Detroit\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2009\ArcSummit - Detroit\DIwithNinject\WithoutNinject\bin\Debug\Ninject.Core.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2009\ArcSummit - Detroit\DIwithNinject\WithoutNinject\bin\Debug\Ninject.Core.xml
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.exe
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\Debug\Common.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\Debug\Ninject.Core.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\bin\Debug\Common.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.exe
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.exe
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\WithoutNinject\bin\Debug\Ninject.Core.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\WithoutNinject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.exe
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.exe
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\Ninject.Core.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\WithoutNinject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.exe
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.exe
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\WithoutNinject\bin\Debug\Ninject.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.exe
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.exe
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\WithoutNinject\bin\Debug\Ninject.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.exe
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\NYC CC\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.exe
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\NYC CC\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\NYC CC\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.exe
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\NYC CC\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\NYC CC\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\NYC CC\DI\DIwithNinject\WithoutNinject\bin\Debug\Ninject.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\NYC CC\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\NYC CC\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.exe
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\WithoutNinject.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\Ninject.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\DI\DIwithNinject\WithoutNinject\bin\Debug\Common.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.exe
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\DI\DIwithNinject\WithoutNinject\obj\Debug\WithoutNinject.pdb

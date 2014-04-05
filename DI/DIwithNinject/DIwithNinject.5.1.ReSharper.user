@@ -1,0 +1,225 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="string" priority="8" />
+      <Item value="public" priority="12" />
+      <Item value="Oven" priority="6" />
+      <Item value="IRecipe" priority="7" />
+      <Item value="recipe" priority="2" />
+      <Item value="_recipe" priority="2" />
+      <Item value="virtual" priority="0" />
+      <Item value="void" priority="2" />
+      <Item value="Console" priority="3" />
+      <Item value="var" priority="7" />
+      <Item value="new" priority="18" />
+      <Item value="return" priority="6" />
+      <Item value="myOven" priority="7" />
+      <Item value="Bind" priority="10" />
+      <Item value="Bagel" priority="1" />
+      <Item value="kernel" priority="5" />
+      <Item value="StandardKernel" priority="3" />
+      <Item value="if" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="Cookie" priority="2" />
+      <Item value="ConditionalOven" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="_isMorning" priority="0" />
+      <Item value="IKernel" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="isMorning" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="afternoonKernel" priority="0" />
+      <Item value="BlueJacketsRule" priority="1" />
+      <Item value="override" priority="7" />
+      <Item value="SecondOven" priority="0" />
+      <Item value="DoubleOven" priority="1" />
+      <Item value="SpecialCake" priority="0" />
+      <Item value="DoubleOvenModule" priority="1" />
+      <Item value="class" priority="4" />
+      <Item value="IFlavor" priority="5" />
+      <Item value="flavor" priority="1" />
+      <Item value="_flavor" priority="1" />
+      <Item value="Plain" priority="1" />
+      <Item value="Chocolate" priority="1" />
+      <Item value="StandardModule" priority="0" />
+      <Item value="Specification`0" priority="2" />
+      <Item value="Bagel`0" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="Plain`0" priority="0" />
+      <Item value="IRecipe`0" priority="0" />
+      <Item value="IFlavor`0" priority="0" />
+      <Item value="_oven" priority="0" />
+      <Item value="returnValue" priority="5" />
+      <Item value="_result" priority="3" />
+      <Item value="interface" priority="2" />
+      <Item value="ILogger`0" priority="3" />
+      <Item value="IDataSource`0" priority="2" />
+      <Item value="_logger" priority="4" />
+      <Item value="_dataSource" priority="2" />
+      <Item value="IDIBusinessService`0" priority="2" />
+      <Item value="logger" priority="2" />
+      <Item value="dataSource" priority="1" />
+      <Item value="_businessService" priority="1" />
+      <Item value="Console`0" priority="1" />
+      <Item value="logMsg" priority="0" />
+      <Item value="IBusinessService`0" priority="2" />
+      <Item value="Logger" priority="1" />
+      <Item value="DataSource" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="BusinessService" priority="0" />
+      <Item value="Bind`0" priority="2" />
+      <Item value="DataSource`0" priority="0" />
+      <Item value="_kernel" priority="0" />
+      <Item value="SingleOvenModule`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="2" />
+      <Item value="ReadKey" priority="1" />
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.IRecipe">
+      <Item value="Cook" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Oven">
+      <Item value="Bake" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Core.Binding.Syntax.IBindingTargetSyntax">
+      <Item value="To" priority="7" />
+      <Item value="ToSelf" priority="3" />
+      <Item value="To`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Core.IKernel">
+      <Item value="Get" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Core.StandardKernel">
+      <Item value="Get" priority="0" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Core.Binding.Syntax.IBindingConditionBehaviorOrArgumentSyntax">
+      <Item value="Only" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Ninject.Conditions.When">
+      <Item value="Context" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Conditions.Builders.ContextConditionBuilder`2">
+      <Item value="Target" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Conditions.Builders.TargetConditionBuilder`2">
+      <Item value="HasAttribute" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.IFlavor">
+      <Item value="Flavor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.IOven">
+      <Item value="Bake`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldNotBeEmpty`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateStub`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tests.ILogger">
+      <Item value="AssertWasCalled`1" priority="0" />
+      <Item value="Log`0" priority="1" />
+      <Item value="Stub`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tests.IDataSource">
+      <Item value="Stub`2" priority="0" />
+      <Item value="GetData`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Repeat" priority="0" />
+      <Item value="Return`0" priority="0" />
+      <Item value="IgnoreArguments`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Core.Binding.Syntax.IBindingConditionBehaviorHeuristicComponentOrParameterSyntax">
+      <Item value="Only`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:Cookie.cs" caret="161" fromTop="8" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Specification.cs" caret="89" fromTop="4" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:IRecipe.cs" caret="42" fromTop="1" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:Bagel.cs" caret="124" fromTop="5" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:Oven.cs" caret="173" fromTop="4" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:IFlavor.cs" caret="260" fromTop="6" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:SpecialCake.cs" caret="55" fromTop="3" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DIBusinessService.cs" caret="529" fromTop="7" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Logger.cs" caret="0" fromTop="0" />
+      <File id="CE1E2EDF-3FB8-46CB-87DE-F631DFD7CB4F/f:Program.cs" caret="0" fromTop="0" />
+      <File id="22441E47-3E6F-4264-814F-24C51E862255/f:Program.cs" caret="1054" fromTop="8" />
+      <File id="E0E3CE2B-906B-4CC8-A9CD-27921AE3B8D5/f:DoubleOvenModule.cs" caret="524" fromTop="13" />
+      <File id="E0E3CE2B-906B-4CC8-A9CD-27921AE3B8D5/f:ConditionalOvenModule.cs" caret="620" fromTop="13" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:DoubleOven.cs" caret="319" fromTop="11" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:SpecializationAttribute.cs" caret="55" fromTop="3" />
+      <File id="E0E3CE2B-906B-4CC8-A9CD-27921AE3B8D5/f:SingleOvenModule.cs" caret="322" fromTop="13" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:BusinessService.cs" caret="64" fromTop="0" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DataSource.cs" caret="333" fromTop="13" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:TestModule.cs" caret="60" fromTop="3" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Tests.cs" caret="857" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Tests.cs" caret="2219" fromTop="1" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Tests.cs" caret="13" fromTop="0" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Tests.cs" caret="2090" fromTop="20" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:TestModule.cs" caret="0" fromTop="0" />
+      <File id="E0E3CE2B-906B-4CC8-A9CD-27921AE3B8D5/f:SingleOvenModule.cs" caret="0" fromTop="0" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DIBusinessService.cs" caret="39" fromTop="0" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DIBusinessService.cs" caret="654" fromTop="25" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DIBusinessService.cs" caret="289" fromTop="10" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:BusinessService.cs" caret="0" fromTop="0" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DataSource.cs" caret="0" fromTop="0" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Logger.cs" caret="236" fromTop="13" />
+      <File id="E0E3CE2B-906B-4CC8-A9CD-27921AE3B8D5/f:ConditionalOvenModule.cs" caret="96" fromTop="4" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:SpecialCake.cs" caret="159" fromTop="7" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:SpecializationAttribute.cs" caret="58" fromTop="3" />
+      <File id="22441E47-3E6F-4264-814F-24C51E862255/f:Program.cs" caret="491" fromTop="6" />
+      <File id="7785C44C-7D10-4CCE-B9C5-B1A7D22DD60B/f:DoubleOven.cs" caret="363" fromTop="16" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DIBusinessService.cs" caret="132" fromTop="4" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DataSource.cs" caret="117" fromTop="5" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DataSource.cs" caret="216" fromTop="10" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:BusinessService.cs" caret="523" fromTop="10" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Tests.cs" caret="1522" fromTop="1" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:DIBusinessService.cs" caret="533" fromTop="12" />
+      <File id="E0E3CE2B-906B-4CC8-A9CD-27921AE3B8D5/f:DoubleOvenModule.cs" caret="468" fromTop="9" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Tests.cs" caret="779" fromTop="15" />
+      <File id="22441E47-3E6F-4264-814F-24C51E862255/f:Program.cs" caret="400" fromTop="8" />
+      <File id="E0E3CE2B-906B-4CC8-A9CD-27921AE3B8D5/f:ConditionalOvenModule.cs" caret="406" fromTop="4" />
+      <File id="E0E3CE2B-906B-4CC8-A9CD-27921AE3B8D5/f:ConditionalOvenModule.cs" caret="620" fromTop="13" />
+      <File id="22441E47-3E6F-4264-814F-24C51E862255/f:Program.cs" caret="837" fromTop="11" />
+      <File id="22441E47-3E6F-4264-814F-24C51E862255/f:Program.cs" caret="1043" fromTop="7" />
+      <File id="65E4C67B-2001-4A42-A9B2-6B0DFF414D4C/f:Tests.cs" caret="1671" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

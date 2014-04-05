@@ -1,0 +1,89 @@
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Tests.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Tests.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Common.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\NBehave.Spec.Framework.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\NBehave.Spec.NUnit.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Ninject.Core.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\nunit.framework.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Common.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\obj\Debug\Tests.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\obj\Debug\Tests.pdb
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Castle.Core.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Castle.Core.xml
+C:\Users\James\Desktop\Abstracts and Presentations\2010\Richmond\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Tests.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Tests.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Castle.Core.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Common.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\NBehave.Spec.Framework.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\NBehave.Spec.NUnit.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Ninject.Core.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\nunit.framework.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Common.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Castle.Core.xml
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\nunit.framework.xml
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\obj\Debug\Tests.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\Codpalousa\DI\DIwithNinject\Tests\obj\Debug\Tests.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Tests.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Tests.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Castle.Core.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Common.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\NBehave.Spec.Framework.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\NBehave.Spec.NUnit.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Ninject.Core.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\nunit.framework.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Common.pdb
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Castle.Core.xml
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\nunit.framework.xml
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\obj\Debug\Tests.dll
+C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject\Tests\obj\Debug\Tests.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Tests.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Tests.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Castle.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Common.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\NBehave.Spec.Framework.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\NBehave.Spec.NUnit.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Ninject.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\nunit.framework.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Common.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Castle.Core.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\nunit.framework.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\obj\Debug\Tests.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Codestock\DI\DIwithNinject\Tests\obj\Debug\Tests.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Tests.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Tests.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Castle.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Common.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\NBehave.Spec.Framework.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\NBehave.Spec.NUnit.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Ninject.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\nunit.framework.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Common.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Castle.Core.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\nunit.framework.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\obj\Debug\Tests.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2013\Atlanta CC\DI\DIwithNinject\Tests\obj\Debug\Tests.pdb

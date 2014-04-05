@@ -1,0 +1,11 @@
+<Configuration>
+  <CoverageFilters>
+    <IncludeFilters>
+      <Filter ModuleMask="*" ClassMask="*" FunctionMask="*" />
+    </IncludeFilters>
+    <ExcludeFilters />
+  </CoverageFilters>
+  <SnapshotDialog>
+    <InitialDirectory>C:\Users\James\Documents\My Dropbox\Abstracts and Presentations\2011\CMH Code Camp\DI\DIwithNinject</InitialDirectory>
+  </SnapshotDialog>
+</Configuration>

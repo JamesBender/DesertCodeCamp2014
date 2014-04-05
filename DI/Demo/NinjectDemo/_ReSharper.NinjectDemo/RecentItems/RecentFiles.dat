@@ -1,0 +1,33 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/d:Entites/f:Person.cs" caret="79" fromTop="4" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/d:WsProxies/f:ProductionProxy.cs" caret="100" fromTop="5" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/d:WsProxies/f:TestProxy.cs" caret="309" fromTop="11" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/d:Database/f:SqlProvider.cs" caret="832" fromTop="22" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:LoggingComponent.cs" caret="405" fromTop="16" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/d:WsProxies/f:IProxy.cs" caret="62" fromTop="2" />
+    <File id="63C95698-6603-44D3-BBC1-F0952E2599E1/f:Program.cs" caret="624" fromTop="14" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:ConditionalModule.cs" caret="1066" fromTop="13" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:DomainModule.cs" caret="369" fromTop="12" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:StaticDependencyBusinessLibrary.cs" caret="119" fromTop="5" />
+    <File id="63C95698-6603-44D3-BBC1-F0952E2599E1/f:App.config" caret="223" fromTop="5" />
+    <File id="17992E21-FBA5-473B-94F4-2F857555045C/f:BusinessLibraryTests.cs" caret="1356" fromTop="19" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:DiBusinessLibrary.cs" caret="872" fromTop="9" />
+    <File id="E92553AB-D3F8-4B87-9E4F-D0ACAC561711/f:BusinessLibraryTests.cs" caret="211" fromTop="10" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:LoggingComponent.cs" caret="321" fromTop="14" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/d:WsProxies/f:IProxy.cs" caret="131" fromTop="4" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/d:WsProxies/f:TestProxy.cs" caret="330" fromTop="11" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/d:WsProxies/f:ProductionProxy.cs" caret="310" fromTop="10" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/d:Database/f:SqlProvider.cs" caret="956" fromTop="21" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:StaticDependencyBusinessLibrary.cs" caret="465" fromTop="8" />
+    <File id="E92553AB-D3F8-4B87-9E4F-D0ACAC561711/f:BusinessLibraryTests.cs" caret="467" fromTop="17" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:DomainModule.cs" caret="369" fromTop="12" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:ConditionalModule.cs" caret="750" fromTop="3" />
+    <File id="63C95698-6603-44D3-BBC1-F0952E2599E1/f:Program.cs" caret="624" fromTop="14" />
+    <File id="63C95698-6603-44D3-BBC1-F0952E2599E1/f:App.config" caret="223" fromTop="5" />
+    <File id="17992E21-FBA5-473B-94F4-2F857555045C/f:BusinessLibraryTests.cs" caret="1356" fromTop="19" />
+    <File id="4DA36CD7-4435-42CF-9B3D-14F8DE34A15A/f:DiBusinessLibrary.cs" caret="872" fromTop="9" />
+  </RecentEdits>
+</RecentFiles>

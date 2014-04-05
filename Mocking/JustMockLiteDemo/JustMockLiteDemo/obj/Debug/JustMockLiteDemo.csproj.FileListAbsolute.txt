@@ -1,0 +1,16 @@
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\JustMockLiteDemo.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\JustMockLiteDemo.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\nunit.framework.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\Telerik.JustMock.Container.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\Telerik.JustMock.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\EQATEC.Analytics.Monitor.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\nunit.framework.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\Telerik.JustMock.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\Telerik.JustMock.Container.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\bin\Debug\EQATEC.Analytics.Monitor.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\obj\Debug\JustMockLiteDemo.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\obj\Debug\JustMockLiteDemo.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\South Florida Code Camp\Mocking\JustMockLiteDemo\JustMockLiteDemo\obj\Debug\JustMockLiteDemo.pdb
