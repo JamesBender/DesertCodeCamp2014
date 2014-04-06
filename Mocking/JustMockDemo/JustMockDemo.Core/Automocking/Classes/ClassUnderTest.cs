@@ -7,8 +7,7 @@ namespace JustMockDemo.Core.Automocking.Classes
         private IFirstDependency _firstDep;
         private ISecondDependency _secondDep;
 
-        public ClassUnderTest(IFirstDependency firstDep, 
-            ISecondDependency secondDep)
+        public ClassUnderTest(IFirstDependency firstDep, ISecondDependency secondDep)
         {
             _firstDep = firstDep;
             _secondDep = secondDep;

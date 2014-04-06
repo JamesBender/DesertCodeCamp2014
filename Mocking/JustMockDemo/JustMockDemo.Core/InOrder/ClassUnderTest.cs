@@ -11,13 +11,10 @@ namespace JustMockDemo.Core.InOrder
 
         public bool TestMe()
         {
-            _sequentialDependency.First();            
-            
+            _sequentialDependency.First();
             _sequentialDependency.Second();
             _sequentialDependency.Second();
-
             //_sequentialDependency.Third();
-
             return true;
         }
     }

@@ -11,7 +11,7 @@ namespace JustMockDemo.Core.MockByExample
         [Test]
         public void NotMockedByExample()
         {
-            var blockingCondition1 = Mock.Create<DetectionInfoBase>();
+            var blockingCondition1 = Mock.Create<IDetectionInfoBase>();
             Mock.Arrange(() => blockingCondition1.Name).Returns("foo");
 
             var installer1 = Mock.Create<IInstallerInfo>();
@@ -21,7 +21,7 @@ namespace JustMockDemo.Core.MockByExample
             var package1 = Mock.Create<IInstallPackage>();
             Mock.Arrange(() => package1.Installer).Returns(installer1);
 
-            var blockingCondition2 = Mock.Create<DetectionInfoBase>();
+            var blockingCondition2 = Mock.Create<IDetectionInfoBase>();
             Mock.Arrange(() => blockingCondition2.Name).Returns("bar");
 
             var installer2 = Mock.Create<IInstallerInfo>();

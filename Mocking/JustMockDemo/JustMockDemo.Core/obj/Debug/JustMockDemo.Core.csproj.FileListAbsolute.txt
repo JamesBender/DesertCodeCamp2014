@@ -49,3 +49,20 @@ C:\Users\bender\Dropbox\Abstracts and Presentations\2014\CodepaLOUsa\Mocking\Jus
 C:\Users\bender\Dropbox\Abstracts and Presentations\2014\CodepaLOUsa\Mocking\JustMockDemo\JustMockDemo.Core\obj\Debug\JustMockDemo.Core.csprojResolveAssemblyReference.cache
 C:\Users\bender\Dropbox\Abstracts and Presentations\2014\CodepaLOUsa\Mocking\JustMockDemo\JustMockDemo.Core\obj\Debug\JustMockDemo.Core.dll
 C:\Users\bender\Dropbox\Abstracts and Presentations\2014\CodepaLOUsa\Mocking\JustMockDemo\JustMockDemo.Core\obj\Debug\JustMockDemo.Core.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\JustMockDemo.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\JustMockDemo.Core.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\nunit.framework.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\Telerik.JustMock.Container.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\Telerik.JustMock.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\EQATEC.Analytics.Monitor.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\nunit.framework.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\Telerik.JustMock.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\Telerik.JustMock.Container.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\bin\Debug\EQATEC.Analytics.Monitor.xml
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\obj\Debug\JustMockDemo.Core.csprojResolveAssemblyReference.cache
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\obj\Debug\JustMockDemo.Core.dll
+C:\Users\bender\Dropbox\Abstracts and Presentations\2014\Desert Code Camp\Mocking\JustMockDemo\JustMockDemo.Core\obj\Debug\JustMockDemo.Core.pdb
